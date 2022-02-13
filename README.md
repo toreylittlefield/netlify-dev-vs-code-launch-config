@@ -50,3 +50,7 @@ Launch Configuration to run the netlify cli with netlify dev attached to the Chr
   ]
 }
 ```
+
+
+## See Reference
+- https://github.com/netlify/cli/blob/main/docs/vscode.md
